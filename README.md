@@ -40,6 +40,23 @@ Android con llamadas a API. La aplicacion esta hecho con Android nativo con leng
 
 ![image](https://github.com/FA90N/CompraOnline/assets/123337463/c4ac2123-fdc7-4a54-b546-f702c620aeac)
 
+11-Iniciamos sesion como administrador y nos aparecerá todos los pedidos.
+
+![image](https://github.com/FA90N/CompraOnline/assets/123337463/04fe0dc4-6551-4ac4-a267-6b113e976a74)
+
+12- Clicamos el pedido y podemos ver detallamente y un boton de aprobar.
+![image](https://github.com/FA90N/CompraOnline/assets/123337463/3993b761-e358-41f6-be42-26d64ec616c2)
+
+13-Al darle a aprobar, se nos cambia a enviado
+
+![image](https://github.com/FA90N/CompraOnline/assets/123337463/d748e2ec-d1d9-4ff8-a3db-8d2800d44198)
+
+![image](https://github.com/FA90N/CompraOnline/assets/123337463/506bf840-b3bc-4711-a17e-0c63f5f63c4b)
+
+
+
+
+
 
 
 
