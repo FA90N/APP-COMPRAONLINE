@@ -1,6 +1,6 @@
 # 2DAM MODULO ANDROID
 Este es uno de los proyecto final del modulo de Android , cuando Cursaba DAM.
-Android con llamadas a API.
+Android con llamadas a API. La aplicacion esta hecho con Android nativo con lenguaje de programacion Kotlin.
 
 1- Podemos registrarnos.
 
