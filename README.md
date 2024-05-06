@@ -1,4 +1,4 @@
-# 2DAM MODULO ANDROID
+# DAM MODULO ANDROID
 Este es uno de los proyecto final del modulo de Android , cuando Cursaba DAM.
 Android con llamadas a API y con SQLite. Todas las llamadas al API, tiene un Token, que esta incluido en preference y al realizar un POST es necesario incluirla. El SQLite solo nos guarda la cantidad y el id del producto.
 La aplicacion esta hecho con Android nativo con lenguaje de programacion Kotlin. Podemos crear cuenta , hacer comprar, añadir y restar unidades del producto. 
