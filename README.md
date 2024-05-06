@@ -1,6 +1,7 @@
 # 2DAM MODULO ANDROID
 Este es uno de los proyecto final del modulo de Android , cuando Cursaba DAM.
-Android con llamadas a API. La aplicacion esta hecho con Android nativo con lenguaje de programacion Kotlin.
+Android con llamadas a API y con SQLite. Todas las llamadas al API, tiene un Token, que esta incluido en preference y al realizar un POST es necesario incluirla. El SQLite solo nos guarda la cantidad y el id del producto.
+La aplicacion esta hecho con Android nativo con lenguaje de programacion Kotlin. Podemos crear cuenta , hacer comprar, añadir y restar unidades del producto. 
 
 1- Podemos registrarnos.
 
@@ -45,6 +46,7 @@ Android con llamadas a API. La aplicacion esta hecho con Android nativo con leng
 ![image](https://github.com/FA90N/CompraOnline/assets/123337463/04fe0dc4-6551-4ac4-a267-6b113e976a74)
 
 12- Clicamos el pedido y podemos ver detallamente y un boton de aprobar.
+
 ![image](https://github.com/FA90N/CompraOnline/assets/123337463/3993b761-e358-41f6-be42-26d64ec616c2)
 
 13-Al darle a aprobar, se nos cambia a enviado
@@ -52,6 +54,12 @@ Android con llamadas a API. La aplicacion esta hecho con Android nativo con leng
 ![image](https://github.com/FA90N/CompraOnline/assets/123337463/d748e2ec-d1d9-4ff8-a3db-8d2800d44198)
 
 ![image](https://github.com/FA90N/CompraOnline/assets/123337463/506bf840-b3bc-4711-a17e-0c63f5f63c4b)
+
+14- Volvemos al usuario y podemos ver que el estado del pedido esta enviado
+
+![image](https://github.com/FA90N/CompraOnline/assets/123337463/0d0279d3-affc-4ab5-b587-2797a19d9aef)
+
+
 
 
 
